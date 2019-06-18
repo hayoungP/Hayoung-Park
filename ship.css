@@ -1,0 +1,134 @@
+
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	font-family: 'Nanum Gothic', sans-serif;
+
+}
+
+.navi{
+	height: 100px;
+	background-color: white;
+	width: 100%;
+	position: fixed;
+	z-index: 2;
+
+}
+
+.navi .dot1{
+	float: left;
+	height: 60px;
+	width: 60px;
+	background-color: #FF6D2C;
+	border-radius: 50%;
+	display: inline-block;
+	margin-left: 20px;
+	margin-top: 25px;
+	float: left;
+}
+
+.navi .dot2{
+	float: right;
+	height: 20px;
+	width: 20px;
+	background-color: black;
+	border-radius: 50%;
+	display: inline-block;
+	position: relative;
+	top: 5px;
+	right: 14px;
+	
+	float: left;
+}
+
+.navi a p{
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: bold;
+	float: right;
+	padding-right: 15px;
+
+}
+.navi .menu{
+	float: right;
+	/*height: 32px;*/
+	margin-right: 15px;
+	margin-top: 40px;
+
+}
+
+
+.clearfix{
+	clear: both;
+}
+
+.Rheader {	
+	color: #222A35;
+	padding-right: 30px;
+	padding-top: 150px;
+	text-align: left;
+	padding-bottom: 35px;
+}
+
+.Lheader {
+	color: #222A35;
+	padding-right: 30px;
+	padding-top: 150px;
+	text-align: right;
+	padding-bottom: 35px;
+}
+
+.min-name{
+	font-size: 18px;
+}
+
+.name{
+	
+	font-family: 'Biryani', sans-serif;
+	font-size: 52px;
+}
+
+.video{
+	background-color: #222A35;
+}
+.black{
+	background-color: black;
+}
+
+.white{
+	background-color: white;
+}
+
+.ship{
+	text-align: center;
+}
+
+.inter{
+	width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.nname{
+	color: #222A35;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 30px;
+}
+
+.Cheader {	
+	color: #222A35;
+	padding-right: 30px;
+	padding-top: 150px;
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+.tool{
+	margin-top: 30px;
+	margin-bottom: 100px;
+
+
+}
