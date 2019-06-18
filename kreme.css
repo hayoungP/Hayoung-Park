@@ -20,7 +20,7 @@
 	float: left;
 	height: 60px;
 	width: 60px;
-	background-color: FCCB9A;
+	background-color: #FCCB9A;
 	border-radius: 50%;
 	display: inline-block;
 	margin-left: 20px;
@@ -32,8 +32,7 @@
 	width: 70px;
 	margin-left: 15px;
 	margin-top: 20px;
-	background-color: ABFFEB;
-	
+	background-color: #ABFFEB;
 }
 .navi .dot2{
 	float: right;
