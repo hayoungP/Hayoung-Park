@@ -21,7 +21,14 @@
 	margin-top: 25px;
 	float: left;
 }
-
+.dot1:hover{
+	height: 70px;
+	width: 70px;
+	margin-left: 15px;
+	margin-top: 20px;
+	background-color: ABFFEB;
+	
+}
 
 .navi .dot2{
 	float: right;
