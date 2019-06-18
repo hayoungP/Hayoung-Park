@@ -20,14 +20,21 @@
 	float: left;
 	height: 60px;
 	width: 60px;
-	background-color: #FFA742;
+	background-color: FCCB9A;
 	border-radius: 50%;
 	display: inline-block;
 	margin-left: 20px;
 	margin-top: 25px;
 	float: left;
 }
-
+.dot1:hover{
+	height: 70px;
+	width: 70px;
+	margin-left: 15px;
+	margin-top: 20px;
+	background-color: ABFFEB;
+	
+}
 .navi .dot2{
 	float: right;
 	height: 20px;
